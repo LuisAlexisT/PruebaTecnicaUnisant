@@ -123,7 +123,7 @@ Authorization: Bearer token_jwt_aqui
 ## Postman
 
 Puedes importar esta colección para probar fácilmente la API:  
-https://speeding-meadow-318772.postman.co/workspace/My-Workspace~0d867a0b-433f-4873-8908-855c267bdac1/collection/21228356-87613919-571c-42c9-ac77-705c91fe7af9?action=share&creator=21228356
+https://www.postman.com/speeding-meadow-318772/workspace/public/collection/21228356-87613919-571c-42c9-ac77-705c91fe7af9?action=share&creator=21228356
 
 ---
 
