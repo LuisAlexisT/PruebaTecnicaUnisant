@@ -137,4 +137,4 @@ https://www.postman.com/speeding-meadow-318772/workspace/public/collection/21228
 
 ## Autor
 
-LuisAlexisT - [Tu GitHub](https://github.com/LuisAlexisT)
+LuisAlexisT - [GitHub](https://github.com/LuisAlexisT)
