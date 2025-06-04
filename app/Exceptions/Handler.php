@@ -24,7 +24,8 @@ class Handler extends ExceptionHandler
     public function register(): void
     {
         $this->reportable(function (Throwable $e) {
-            //
+            // return response()->json(['error' => 'Unauthorized'], 401);  
         });
+        // return parent::render($request, $exception);
     }
 }
